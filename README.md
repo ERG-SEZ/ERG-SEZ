@@ -8,7 +8,7 @@ I am a self-starter and a quick learner, always eager to expand my skill set and
 
 
 
-Skills:<br>  
+<h3 align="left">>Skills:</h3<br>  
 • SQL (MySQL, PostgreSQL) <br>
 • Python (Pandas, NumPy, Matplotlib, Seaborn) <br>
 • Tableau <br>
