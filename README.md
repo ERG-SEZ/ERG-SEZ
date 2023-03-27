@@ -16,7 +16,8 @@ Skills:<br>
 • Microsoft Power BI
 
 - 👯 I’m looking to collaborate on a project. 
-- 📫 How to reach me: ergyunhasan@gmail.com 
+- 📫 How to reach me: ergyunhasan@gmail.com
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ergün-sezgin-bb3729a4//)   
 
 
  
