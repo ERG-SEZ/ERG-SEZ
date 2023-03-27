@@ -17,7 +17,10 @@ Skills:<br>
 
 - 👯 I’m looking to collaborate on a project. 
 - 📫 How to reach me: ergyunhasan@gmail.com
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ergün-sezgin-bb3729a4//)   
+
+<a href="https://linkedin.com/in/ergün (ergyun hasan) sezgin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ergün (ergyun hasan) sezgin" height="30" width="40" /></a>
+</p>
+ 
 
 
  
