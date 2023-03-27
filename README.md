@@ -1,5 +1,6 @@
 ### Hi there 👋,  Ergyun Hasan
 #### "Unlocking Business Insights with Python, SQL, and Data Visualization - Data Analyst & Pythonista"
+https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png
 I have a passion for turning complex data into actionable insights. I am skilled in analyzing datasets using various tools and techniques to identify trends, patterns, and anomalies such as data cleaning and manipulation, data visualization, and reporting. 
 
 I am a self-starter and a quick learner, always eager to expand my skill set and knowledge. I have excellent communication skills and the ability to present complex data in a clear.
