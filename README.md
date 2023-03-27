@@ -4,9 +4,9 @@ I have a passion for turning complex data into actionable insights. I am skilled
 
 I am a self-starter and a quick learner, always eager to expand my skill set and knowledge. I have excellent communication skills and the ability to present complex data in a clear.
 
-Skills:  
-• SQL (MySQL, PostgreSQL) 
-• Python (Pandas, NumPy, Matplotlib, Seaborn) 
+Skills:<br>  
+• SQL (MySQL, PostgreSQL) <br>
+• Python (Pandas, NumPy, Matplotlib, Seaborn) <br>
 • Tableau 
 • Excel (VLOOKUP, Conditional Formatting, Pivot Tables, Pivot Charts, Functions) 
 • Microsoft Power BI
