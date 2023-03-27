@@ -15,8 +15,8 @@ Skills:<br>
 • Excel (VLOOKUP, Conditional Formatting, Pivot Tables, Pivot Charts, Functions)<br>
 • Microsoft Power BI
 
-- 👯 I’m looking to collaborate on a project. 
-- 📫 How to reach me: ergyunhasan@gmail.com
+👯 I’m looking to collaborate on a project. 
+📫 How to reach me: ergyunhasan@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
