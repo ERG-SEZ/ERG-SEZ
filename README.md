@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ERG-SEZ/ERG-SEZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Projects & Guides 📚
+In my portfolio, you can find my projects and guides on data analytics, including my guide on transitioning into the field.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 My Skills
+Data preparation, quality assurance, and analysis
+Database design and modelling
+Dashboard development and reporting
+Exploratory data analysis
+🛠️ My Tools
+Databases: SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery), Excel
+Python: NumPy, Pandas
+Visualisation: Tableau, Matplotlib, Seaborn
+Project Management: Trello, JIRA
