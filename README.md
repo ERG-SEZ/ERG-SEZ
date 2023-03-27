@@ -1,4 +1,4 @@
-### Hi therE 👋,Ergyun Hasan
+### Hi there 👋,Ergyun Hasan
 
 body {
 			font-family: Arial, sans-serif;
@@ -37,12 +37,8 @@ body {
 		<h2>Your Name</h2>
 	</header>
 	<div class="container">
-		<p>Hi, I'm Your Name and I'm a developer based in [Your City]. I have a passion for creating and developing applications that solve real-world problems.</p>
+		I have a passion for turning complex data into actionable insights. I am skilled in analyzing datasets using various tools and techniques to identify trends, patterns, and anomalies such as data cleaning and manipulation, data visualization, and reporting. 
 
-		<p>My experience includes [list your relevant experience], and I'm always looking for new challenges and opportunities to grow as a developer.</p>
-
-		<p>In my free time, I enjoy [list your hobbies and interests], and I'm always looking to connect with like-minded individuals in the tech community.</p>
-
-		<p>Feel free to reach out to me at [your email address] or connect with me on [list your social media profiles] to learn more about me and my work.</p>
+I am a self-starter and a quick learner, always eager to expand my skill set and knowledge. I have excellent communication skills and the ability to present complex data in a clear.
 	</div>
 </body>
