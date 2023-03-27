@@ -8,7 +8,7 @@ Skills:<br>
 • SQL (MySQL, PostgreSQL) <br>
 • Python (Pandas, NumPy, Matplotlib, Seaborn) <br>
 • Tableau <br>
-• Excel (VLOOKUP, Conditional Formatting, Pivot Tables, Pivot Charts, Functions) <br>
+• Excel (VLOOKUP, Conditional Formatting, Pivot Tables, Pivot Charts, Functions)<br>
 • Microsoft Power BI
 
 - 👯 I’m looking to collaborate on a project. 
