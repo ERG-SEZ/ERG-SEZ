@@ -1,6 +1,28 @@
 # Netflix Data Analysis
 
-This project analyzes a comprehensive dataset of Netflix content to uncover key trends in the streaming service's offerings. Through the use of various visualizations, the project delves into the number of content added to Netflix over time, the percentage of movies and TV shows available, the highest and most common ratings, the months with the highest number of content additions, the top content producing countries, and the most frequently appearing directors and actors/actresses.
+Introduction:
+The aim of this project is to analyze the sales and profit trends of a company's products over time. Through various data visualizations and analysis, we provide insights on the top products by sales and profit, the most selling products, the most selling category and sub-category, the most profitable category and sub-category, the most preferred ship mode, the top countries and markets by sales, and recommendations to improve the overall sales and profit of the company.
+
+Sales and Profit Trends:
+The project explores the sales and profit trends over time, and it reveals that both sales and profit have shown an overall positive trend. However, the company should monitor the sales and profit trends for each month to identify any patterns or changes that need to be addressed.
+
+Top Products:
+The project identifies the top 10 products by sales and by profit, and it recommends that the company should focus on these products to maximize their profits. Staples, Cardinal Index Tab, and Eldon File Cart are the most selling products, and Binders and Storage are the best selling sub-categories. Phones are the most important sub-category for both sales and profits, so the company should focus on improving sales and profits for this sub-category.
+
+Most Selling Category and Sub-Category:
+The project identifies the most selling category and sub-category, which is Binders and Storage. The company should ensure that they maintain a sufficient inventory of these products and sub-categories to meet customer demand.
+
+Most Profitable Category and Sub-Category:
+The project reveals that the Furniture category is currently the least profitable category, while Copiers and Phones sub-categories are the most profitable. The company should focus on improving the profitability of the Furniture category by identifying the reasons for the low profitability and taking corrective actions.
+
+Most Preferred Ship Mode:
+The project analyzes the most preferred ship mode, which is Standard Class. The company could review their shipping and delivery strategies to optimize the most preferred shipping mode and improve customer satisfaction while minimizing shipping costs.
+
+Top Countries and Markets:
+The project analyzes the top countries and markets by sales, and it identifies that the highest performing regions are APAC, EU, and US. The company could continue to focus on expanding their sales channels and targeting potential customers in these regions to improve their sales and profit.
+
+Recommendations:
+Based on the analysis, the project provides recommendations to improve the overall sales and profit of the company. The company should focus on the top-selling products and categories to maximize their profits, continue to monitor the most selling products and sub-categories, and review their shipping and delivery strategies. Additionally, the company could focus on improving the profitability of the Furniture category and promoting and selling more products in the Copiers and Phones sub-categories.
 
 ## Conclusions
 
