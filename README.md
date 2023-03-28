@@ -1,15 +1,12 @@
+# Covid Project - SQL Analysis
 
-
-
-
-Covid Project - SQL Analysis
-Introduction
+## Introduction
 This project uses SQL to analyze data related to the Covid pandemic. Two tables were used - coviddeaths and covidvaccinations - to calculate key metrics such as infection rates, death rates, and vaccination rates.
 
-Installation
+## Installation
 To run this project, you'll need access to a SQL database and the ability to execute SQL queries. The two tables used in this project - coviddeaths and covidvaccinations - will need to be imported into your database before running the queries.
 
-Usage
+## Usage
 This project includes several SQL queries that can be run to analyze Covid data. Here are some examples:
 
 SELECT * FROM coviddeaths WHERE continent IS NOT NULL ORDER BY location, date; - this query retrieves all data from the coviddeaths table, but excludes any rows where continent is null. The resulting data is sorted by location and date.
