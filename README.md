@@ -1,3 +1,62 @@
+
+
+
+
+Covid Project - SQL Analysis
+Introduction
+This project uses SQL to analyze data related to the Covid pandemic. Two tables were used - coviddeaths and covidvaccinations - to calculate key metrics such as infection rates, death rates, and vaccination rates.
+
+Installation
+To run this project, you'll need access to a SQL database and the ability to execute SQL queries. The two tables used in this project - coviddeaths and covidvaccinations - will need to be imported into your database before running the queries.
+
+Usage
+This project includes several SQL queries that can be run to analyze Covid data. Here are some examples:
+
+SELECT * FROM coviddeaths WHERE continent IS NOT NULL ORDER BY location, date; - this query retrieves all data from the coviddeaths table, but excludes any rows where continent is null. The resulting data is sorted by location and date.
+
+SELECT location, date, total_cases, total_deaths, ROUND((total_deaths / total_cases) * 100, 2) AS death_percentage FROM coviddeaths WHERE location = 'Turkey' ORDER BY date; - this query calculates the probability of dying from Covid in Turkey, based on the total number of cases and deaths.
+
+SELECT location, population, MAX(total_cases) AS highest_infection_count, ROUND(MAX((total_cases / population)) * 100, 2) AS percent_population_infected FROM coviddeaths GROUP BY location, population ORDER BY percent_population_infected DESC; - this query identifies the countries with the highest infection rates, based on the total number of cases and population size.
+
+These are just a few examples of the queries included in this project. You can modify these queries or create your own to analyze the Covid data in different ways.
+
+Credits
+This project was created by [Your Name]. Feel free to contact me with any questions or feedback!
+
+Resume
+[Include your resume here]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # A Comprehensive Analysis of Sales and Profit
 
 The aim of this project is to analyze the sales and profit trends of a company's products over time. Through various data visualizations and analysis, we provide insights on the top products by sales and profit, the most selling products, the most selling category and sub-category, the most profitable category and sub-category, the most preferred ship mode, the top countries and markets by sales, and recommendations to improve the overall sales and profit of the company.
