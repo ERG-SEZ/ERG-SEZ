@@ -7,7 +7,7 @@ The aim of this project is to analyze the sales and profit trends of a company's
 
 
 ## Conclusions
-Questions
+## Questions
 * What is the sales and the profit trend over time?
 * What are the top 10 products by sales and by profit?
 * What are the most selling products?
@@ -15,7 +15,9 @@ Questions
 * Which are the most profittable category and sub-category?
 * Which is the most preferred ship mode?
 * What are the top countries and markets by sales ?
-Recommendations
+
+## Recommendations
+
 The overall trend for both sales and profit is positive, which is a good sign for the company. However, the company should monitor the sales and profit trends for each month to identify any patterns or changes that need to be addressed.
 
 The company should focus on the top-selling products and categories to maximize their profits. The technology category is the most important category for both sales and profits, so the company should invest in promoting and selling more technology products. Phones are the most important sub-category for both sales and profits, so the company should focus on improving sales and profits for this sub-category.
