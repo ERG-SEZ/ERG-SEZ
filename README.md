@@ -1,9 +1,6 @@
-
-
-
 # Netflix Data Analysis
 
-This project explores a Netflix dataset to understand trends in the number of content added to Netflix over time, the percentage of TV shows and movies on Netflix, the months with the highest number of content additions, the highest and most common ratings on Netflix, the top 10 content producing countries, and the most frequently appearing directors and actors/actresses.
+This project analyzes a comprehensive dataset of Netflix content to uncover key trends in the streaming service's offerings. Through the use of various visualizations, the project delves into the number of content added to Netflix over time, the percentage of movies and TV shows available, the highest and most common ratings, the months with the highest number of content additions, the top content producing countries, and the most frequently appearing directors and actors/actresses.
 
 ## Conclusions
 
