@@ -1,4 +1,4 @@
-# Covid Project - SQL Analysis
+# Covid Data Analysis with SQL
 
 ## Introduction
 This project uses SQL to analyze data related to the Covid pandemic. Two tables were used - coviddeaths and covidvaccinations - to calculate key metrics such as infection rates, death rates, and vaccination rates.
@@ -17,11 +17,7 @@ SELECT location, population, MAX(total_cases) AS highest_infection_count, ROUND(
 
 These are just a few examples of the queries included in this project. You can modify these queries or create your own to analyze the Covid data in different ways.
 
-Credits
-This project was created by [Your Name]. Feel free to contact me with any questions or feedback!
 
-Resume
-[Include your resume here]
 
 
 
