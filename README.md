@@ -7,7 +7,7 @@ The aim of this project is to analyze the sales and profit trends of a company's
 
 
 ## Conclusions
-## Questions
+### Questions
 * What is the sales and the profit trend over time?
 * What are the top 10 products by sales and by profit?
 * What are the most selling products?
@@ -16,7 +16,7 @@ The aim of this project is to analyze the sales and profit trends of a company's
 * Which is the most preferred ship mode?
 * What are the top countries and markets by sales ?
 
-## Recommendations
+### Recommendations
 
 The overall trend for both sales and profit is positive, which is a good sign for the company. However, the company should monitor the sales and profit trends for each month to identify any patterns or changes that need to be addressed.
 
