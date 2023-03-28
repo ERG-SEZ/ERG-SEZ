@@ -4,12 +4,11 @@ The aim of this project is to analyze the sales and profit trends of a company's
 
 
 
-Recommendations:
-Based on the analysis, the project provides recommendations to improve the overall sales and profit of the company. The company should focus on the top-selling products and categories to maximize their profits, continue to monitor the most selling products and sub-categories, and review their shipping and delivery strategies. Additionally, the company could focus on improving the profitability of the Furniture category and promoting and selling more products in the Copiers and Phones sub-categories.
+
 
 ## Conclusions
 Questions
-What is the sales and the profit trend over time?
+* What is the sales and the profit trend over time?
 What are the top 10 products by sales and by profit?
 What are the most selling products?
 Which are the most selling category and sub-category?
