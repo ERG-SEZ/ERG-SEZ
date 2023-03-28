@@ -32,14 +32,6 @@ This project analyzes a comprehensive dataset of Netflix content to uncover key 
    - The first position belongs to Rajiv Chilaka, an Indian director who has managed 19 content titles at Netflix.
    - The first position belongs to Shah Rukh Khan, an Indian actor who has appeared in 43 content titles on Netflix.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
 
  
 
